@@ -1,17 +1,17 @@
 # serverless-memo-demo
 nestJs + Express + serverless Tutorial로 올려보기
 
-##package install
+## package install
 ```
 $ yarn 
 ```
 
-###Run local
+## Run local
 ```
 $ sls offline start
 ```
 
-###Deploy
+## Deploy
 ```
 $ sls deploy --awd-profile [프로파일명] // default
 ```
